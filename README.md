@@ -29,6 +29,10 @@
 
 - canvas粒子系统
 
+- canvas裁切(clip)
+
+- 图像合成(globalCompositeOperation)
+
 - 综合
 
     - [canvas像素画板](/Project/canvas像素画板.md)
