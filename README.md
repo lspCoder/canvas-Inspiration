@@ -19,6 +19,10 @@
 
 ## 贝塞尔曲线(bezierCurve)
 
+## 渐变(gradient)
+
+	- [手把手教你画圆锥渐变](/Gradient/手把手教你画圆锥渐变.md)
+
 ## canvas动画
 
 ## canvas绘制文本
