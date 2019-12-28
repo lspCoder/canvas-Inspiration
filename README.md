@@ -6,7 +6,7 @@
 
 ## 在线预览
 
-[Online Pages](https://lspcoder.github.io/canvas-Inspiration/index.html#/)
+[Online Pages](https://lspcoder.github.io/canvas-Inspiration/#/)
 
 ## canvas基础知识
 
